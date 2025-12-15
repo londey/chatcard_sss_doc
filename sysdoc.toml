@@ -1,0 +1,14 @@
+document_id = "CHATCARD-SSS"
+document_name = "System/Subsystem Specification"
+document_type = "SSS"
+document_standard = "DI-IPSC-81431A"
+document_template = "sss-standard-v1"
+
+[document_owner]
+name = ""
+email = ""
+
+[document_approver]
+name = ""
+email = ""
+
