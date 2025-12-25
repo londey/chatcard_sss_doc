@@ -1,14 +1,17 @@
+system_id = "CHATCARD"
 document_id = "CHATCARD-SSS"
-document_name = "System/Subsystem Specification"
+document_title = "ChatCard System/Subsystem Specification"
+# document_subtitle = "Optional subtitle"
+# document_description = "Optional description"
 document_type = "SSS"
 document_standard = "DI-IPSC-81431A"
 document_template = "sss-standard-v1"
 docx_template_path = "template.docx"
 
 [document_owner]
-name = ""
-email = ""
+name = "Nicholas Londey"
+email = "nicholas@problematiccreations.com"
 
 [document_approver]
-name = ""
-email = ""
+name = "Diana McKinlay"
+email = "diana@problematiccreations.com"
